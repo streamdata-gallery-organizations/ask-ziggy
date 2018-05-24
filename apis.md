@@ -1,17 +1,13 @@
 ---
 name: Ask Ziggy
 x-slug: ask-ziggy
-description: Ask Ziggy, a Sacramento, CA-based Natural Speech search engine for mobile
-  devices. Led by Shai Leib, CEO, Ask Ziggy has developed voice recognition technology
-  and Personal Voice Assistant incorporating Artificial Intelligence for Android-,
-  Apple- and Microsoft-based cell phones, tablets and mobile devices. The company
-  also said that its Software Development Kit (SDK) will be available shortly.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ask-ziggy.png
+description: Less Type. More Talk. The Natural Language Understanding (NLU) API.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2482-ask-ziggy.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "12615722"
 tags: Ask Ziggy
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/ask-ziggy/master/_listings/ask-ziggy/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -20,6 +16,8 @@ x-common:
   url: https://www.ask-ziggy.net/NLP/api/
 - type: x-blog
   url: http://www.ask-ziggy.com/blog.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ask-ziggy
 - type: x-developer
   url: http://www.ask-ziggy.com/walkthrough.html
 - type: x-twitter
